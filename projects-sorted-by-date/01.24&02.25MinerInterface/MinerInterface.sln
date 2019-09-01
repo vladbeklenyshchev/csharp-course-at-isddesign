@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinerInterface", "MinerInterface\MinerInterface.csproj", "{72F746FF-AEC3-4FBF-8D15-F86422DDD2BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinerFunction", "MinerFunction\MinerFunction.csproj", "{FC53DB76-B4BC-4ED6-9F9E-A75DA0F17DA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72F746FF-AEC3-4FBF-8D15-F86422DDD2BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72F746FF-AEC3-4FBF-8D15-F86422DDD2BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72F746FF-AEC3-4FBF-8D15-F86422DDD2BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72F746FF-AEC3-4FBF-8D15-F86422DDD2BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC53DB76-B4BC-4ED6-9F9E-A75DA0F17DA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC53DB76-B4BC-4ED6-9F9E-A75DA0F17DA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC53DB76-B4BC-4ED6-9F9E-A75DA0F17DA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC53DB76-B4BC-4ED6-9F9E-A75DA0F17DA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
